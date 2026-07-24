@@ -80,14 +80,14 @@ Pandas • NumPy • Hadoop • Hive • HBase • Cassandra • Power BI • Ta
 - 🏅 NCSC State Level Participant
 - 💻 Built multiple Data Engineering & AI projects
 - 🚀 Active LeetCode problem solver
-- 🤖 Passionate about Machine Learning & Distributed Systems
+- 🤖 Passionate about AI & Distributed Systems
 ---
 
 ## 🚀 Featured Projects
 
 ⭐ **DataFlowX** – End-to-end data engineering pipeline
 
-⭐ **React Portfolio** *(Coming Soon)*
+⭐ **React Portfolio** 
 
 ⭐ **Detective Dank** – AI-powered fact checking assistant
 
@@ -95,8 +95,10 @@ Pandas • NumPy • Hadoop • Hive • HBase • Cassandra • Power BI • Ta
 
 ⭐ **Community Development Project** – Rural education initiative
 
-⭐ **Summer Training Project**
----
+⭐ **The Citadel** - Where every universe meets.
+
+⭐ **Summer Training Project** - (Data Structures and Algorithm)
+
 
 ## 📫 Connect With Me
 
@@ -105,7 +107,12 @@ Pandas • NumPy • Hadoop • Hive • HBase • Cassandra • Power BI • Ta
 <a href="https://github.com/Hameeem">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
+<a href="https://www.linkedin.com/in/hameembaba08/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png"/>
+</a>
+<a href="https://leetcode.com/u/hameem8/">
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-logo-icon-svg-download-png-2944960.png?f=webp&w=256"
+  </a>
 </p>
 
 <p align="center">

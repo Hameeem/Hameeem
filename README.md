@@ -108,7 +108,7 @@ Pandas • NumPy • Hadoop • Hive • HBase • Cassandra • Power BI • Ta
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 <a href="https://www.linkedin.com/in/hameembaba08/">
-<img src="https://skillicons.dev/icons?i=all"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/LinkedIn.svg"/>
 </a>
 <a href="https://leetcode.com/u/hameem8/">
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-logo-icon-svg-download-png-2944960.png?f=webp&w=256"

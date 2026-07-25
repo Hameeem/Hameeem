@@ -18,7 +18,6 @@
 - 🎓 Computer Science student passionate about building impactful software.
 - 🐍 Solving **LeetCode** regularly to strengthen problem-solving skills.
 - 📊 Interested in **Data Engineering**, **Distributed Systems**, and **Machine Learning**.
-- 🌱 Currently learning **Apache Spark**, **Kafka**, and cloud technologies.
 - 💡 I enjoy turning ideas into polished, real-world projects.
 ---
 

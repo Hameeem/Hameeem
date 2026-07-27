@@ -86,7 +86,7 @@ Pandas • NumPy • Hadoop • Hive • HBase • Cassandra • Power BI • Ta
 
 ⭐ **DataFlowX** – End-to-end data engineering pipeline
 
-⭐ **React Portfolio** 
+⭐ **React Portfolio** - React based portfolio
 
 ⭐ **Detective Dank** – AI-powered fact checking assistant
 
